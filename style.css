@@ -1,0 +1,34 @@
+body {
+    background-color: darkseagreen;
+    padding: 5px;
+}
+
+h1{
+    color: blue;
+}
+h2{
+    color: darkred;
+}
+
+img{
+    width: 400px;
+    
+}
+
+#site-heading{
+   text-align: center; 
+   color: darkcyan;
+}
+
+.grocery-subheading{
+    border: 1px solid black;
+    background-color: bisque;
+    width: 30%;
+}
+
+.grocery-item{
+    background-color: gray;
+    margin-bottom: 5px;
+    width: 30%;
+    padding: 10px;
+}
